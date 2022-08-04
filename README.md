@@ -1,11 +1,10 @@
 ### Hi there! I'm using github! 🌱
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinaluna&hide=contribs,prs&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaluna&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 <!--
-**cristinaluna/cristinaluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
