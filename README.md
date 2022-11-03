@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinaluna&hide=contribs&count_private=true,prs&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaluna&layout=compact&hide=javascript,html,c#&count_private=true)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaluna&layout=compact&hide=javascript,html,c%23&count_private=true)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
 🔭 I’m currently working on autonomous robotics for human and robotic space exploration!
 
